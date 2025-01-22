@@ -1,0 +1,37 @@
+body{
+  font-family:'Segoe Ul',Tahoma,Geneva,Verdana,sans-serif;
+  font-size: 18px;
+}
+
+nav ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+nav li{
+  display:inline-block;
+  padding-top: 16px;
+  padding-bottom: 16px;
+
+}
+nav{
+  border-bottom: 4px solid black;
+  text-align: center;
+  background: rgb(244, 235, 235);
+}
+nav a{
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+  padding: 10px 25px;
+  
+}
+nav a:hover{
+  background-color: black;
+  color: white;
+
+}
+
+#page-body{
+  background-color: rgb(236, 248, 248);
+}
